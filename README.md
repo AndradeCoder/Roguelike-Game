@@ -1,6 +1,8 @@
 # Roguelike Game
  Roguelike Java game developed for a school project | OOP
 
+ Below here there's a report and important documentation for the code present in the project, for the portuguese version look it up [here](Relatório_POO_LeonardoAndrade99377.pdf).
+
 ![Notes and helpful documentation_page-0001](https://github.com/AndradeCoder/Roguelike-Game/assets/94943267/c71ba486-70d4-4c15-8d40-eed273547ca7)
 ![Notes and helpful documentation_page-0002](https://github.com/AndradeCoder/Roguelike-Game/assets/94943267/c9df14ff-e95e-47f4-bab4-540672c42d9c)
 ![Notes and helpful documentation_page-0003](https://github.com/AndradeCoder/Roguelike-Game/assets/94943267/89642d80-7c73-4253-8c61-5c13ff90f9e1)
